@@ -2,5 +2,5 @@
 ## User settings
 data/
 material/
-.DS_Store*
-.ipynb_checkpoints*
+*.DS_Store*
+*.ipynb_checkpoints*
