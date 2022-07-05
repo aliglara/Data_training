@@ -1,6 +1,8 @@
 
 ## User settings
-data/
+data/*
 material/
 *.DS_Store*
 *.ipynb_checkpoints*
+.idea
+*.csv
